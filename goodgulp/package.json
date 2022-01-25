@@ -2,7 +2,6 @@
   "name": "goodgulp",
   "version": "1.0.0",
   "description": "gulp 101",
-  "main": "index.js",
   "license": "MIT",
   "scripts": {
     "dev": "gulp dev",
